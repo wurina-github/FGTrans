@@ -18,7 +18,7 @@ Our initial research has been accepted by [IEEE Robotics and Automation Letters(
 
 4. [Training--Learning Categorical Dense Correspondence](#training--learning-categorical-dense-correspondence)
 
-5. [Post processing of generated data](#post processing of generated data)
+5. [Post processing of generated data](#post-processing-of-generated-data)
 
 6. [Acknowledgment](#acknowledgment)
 
