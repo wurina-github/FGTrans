@@ -49,8 +49,17 @@ To assist or replace human beings in completing various tasks, research on the f
 
 ## Data Preprocess
 
-- Download source meshes and grasp labels for knife, bottle categories from [ShapeNetCore](https://shapenet.org/download/shapenetcore) dataset.
-
+- Download source meshes and grasp labels for knife, bottle categories from [ShapeNetCore](https://shapenet.org/download/shapenetcore) dataset or [Baidu:-ecgf](https://pan.baidu.com/s/1HqceI1hKRayz-vBTJvs40Q).
+- Please download the trained model of this project from [Baidu:-ecgf](https://pan.baidu.com/s/1HqceI1hKRayz-vBTJvs40Q). And arrange the files as follows:
+```
+|-- FGtrans
+    |-- DIF
+        |-- models
+            |-- knife
+            |-- bottle
+                |-- checkpoints
+                    |--model.pth
+```
 - Copy all folders in '02876657'(bottle) to datasets, and file '03624134'(knife) as above. And arrange the files as follows:
 
 ```
